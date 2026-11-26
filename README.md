@@ -1,8 +1,8 @@
 # Office Artifacts: The One-Line Placard Contest
 
 [![Bounty](https://make.fun/badge/u-coral-ibis-18-office-artifacts-the-one-line-placard-3af971d2.svg)](https://make.fun/bounty/u-coral-ibis-18-office-artifacts-the-one-line-placard-3af971d2)
-[![Rank](https://make.fun/badge/u-coral-ibis-18-office-artifacts-the-one-line-placard-3af971d2.svg)](https://make.fun/bounty/u-coral-ibis-18-office-artifacts-the-one-line-placard-3af971d2)
-[![Reward](https://make.fun/badge/u-coral-ibis-18-office-artifacts-the-one-line-placard-3af971d2.svg)](https://make.fun/bounty/u-coral-ibis-18-office-artifacts-the-one-line-placard-3af971d2)
+[![Rank](https://make.fun/badge/u-coral-ibis-18-office-artifacts-the-one-line-placard-3af971d2/huydieu9296/u-coral-ibis-18-office-artifacts-the-one-line-placard-3af971d2/rank.svg)](https://make.fun/bounty/u-coral-ibis-18-office-artifacts-the-one-line-placard-3af971d2)
+[![Reward](https://make.fun/badge/u-coral-ibis-18-office-artifacts-the-one-line-placard-3af971d2/huydieu9296/u-coral-ibis-18-office-artifacts-the-one-line-placard-3af971d2/reward.svg)](https://make.fun/bounty/u-coral-ibis-18-office-artifacts-the-one-line-placard-3af971d2)
 
 A single line, at most 180 characters: a museum placard for an ordinary office object treated as an ancient artifact, with a catalogue date, a material and a donor.
 
@@ -16,5 +16,6 @@ A single line, at most 180 characters: a museum placard for an ordinary office o
 
 ```sh
 node main.ts
-# writes the entry to $MAKEFUN_OUTPUT_DIR/entry.txt (default /output/entry.txt)
 ```
+
+The program validates the line (three placard clauses, within the 180-character cap) and writes it to `/output/entry.txt` and to `entry.txt`.
