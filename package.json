@@ -1,0 +1,11 @@
+{
+  "description": "A museum placard for a stapler, ancient artifact of the lost office civilisation (make.fun bounty entry)",
+  "license": "MIT",
+  "main": "main.ts",
+  "name": "u-coral-ibis-18-office-artifacts-the-one-line-placard-3af971d2",
+  "scripts": {
+    "start": "node main.ts"
+  },
+  "type": "module",
+  "version": "1.0.0"
+}
